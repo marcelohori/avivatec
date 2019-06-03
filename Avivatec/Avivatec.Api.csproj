@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.6" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Avivatec.CrossCutting.IoC\Avivatec.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Avivatec.Data\Avivatec.Data.csproj" />
+    <ProjectReference Include="..\Avivatec.Domain\Avivatec.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

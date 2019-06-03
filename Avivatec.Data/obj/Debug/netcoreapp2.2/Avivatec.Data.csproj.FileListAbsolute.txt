@@ -1,0 +1,16 @@
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Data.deps.json
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Data.runtimeconfig.json
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Data.runtimeconfig.dev.json
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Data.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Data.pdb
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Business.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Domain.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Business.pdb
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\bin\Debug\netcoreapp2.2\Avivatec.Domain.pdb
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.csprojAssemblyReference.cache
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.AssemblyInfoInputs.cache
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.AssemblyInfo.cs
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.csproj.CopyComplete
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Data\obj\Debug\netcoreapp2.2\Avivatec.Data.pdb

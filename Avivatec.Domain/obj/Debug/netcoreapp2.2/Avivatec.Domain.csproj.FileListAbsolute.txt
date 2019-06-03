@@ -1,0 +1,8 @@
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\bin\Debug\netcoreapp2.2\Avivatec.Domain.deps.json
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\bin\Debug\netcoreapp2.2\Avivatec.Domain.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\bin\Debug\netcoreapp2.2\Avivatec.Domain.pdb
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\obj\Debug\netcoreapp2.2\Avivatec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\obj\Debug\netcoreapp2.2\Avivatec.Domain.AssemblyInfoInputs.cache
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\obj\Debug\netcoreapp2.2\Avivatec.Domain.AssemblyInfo.cs
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\obj\Debug\netcoreapp2.2\Avivatec.Domain.dll
+C:\Users\Marcelo Hori\source\repos\Avivatec\Avivatec.Domain\obj\Debug\netcoreapp2.2\Avivatec.Domain.pdb
